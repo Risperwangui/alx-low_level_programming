@@ -10,3 +10,4 @@ Write a program that prints the lowercase alphabet in reverse, followed by a new
 
 
 Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
+Write a program that prints all possible combinations of single-digit numbers.
