@@ -18,3 +18,6 @@ Write a program that prints the lowercase alphabet in reverse, followed by a new
 Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
 Write a program that prints all possible combinations of single-digit numbers.
 >>>>>>> a6c47acf787fa73588d6643b1a3b2e91fa93462e
+Write a program that prints all possible different combinations of three digits.
+
+
