@@ -11,3 +11,4 @@ Write a function that prints the sign of a number.
 Write a function that computes the absolute value of an integer. >> README.md
 
 echo Write a function that computes the absolute value of an integer.
+Write a function that prints the last digit of a number.
