@@ -8,13 +8,14 @@
  */
 char *_strcpy(char *dest, char *src)
 {
-	int index = 0;
+	char *p = dest;
 
-	while (src[index])
-	{
-		dest[index] = src[index];
-		index++;
+	while (*src != '\0')
+	{	
+	*dest = *src;
+	dest++;
+	src++;
 	}
-
-	return (dest);
+	*dest = '\0';
+	return (p);
 }
