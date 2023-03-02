@@ -1,5 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
+char *rot13(char *str);
 char *leet(char *u);
 char *cap_string(char *s);
 char *string_toupper(char *r);
