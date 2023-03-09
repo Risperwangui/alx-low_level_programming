@@ -1,5 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
+int wildcmp(char *s1, char *s2);
 int palindromeCheck(char *str, int len, int i);
 int is_palindrome(char *s);
 int sqrt_check(int a, int c);
