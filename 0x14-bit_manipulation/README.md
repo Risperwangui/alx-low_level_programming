@@ -5,3 +5,6 @@ Question 1:
 Wrte a function that prints the binary representation of a number.
 Question 2:
 Write a function that returns the value of a bit at a given index.
+Question 3:
+Write a fumction that sets the value of a bit to 1 at a given index.
+
