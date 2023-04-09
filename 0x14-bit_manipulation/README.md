@@ -11,4 +11,6 @@ Question 4:
 Write a function that sets the value of a bit to 0 at a given index.
 Question 5:
 Write a function that returns the number of bits you would need to flip to get from one number to another.
+Question 6:
+Write s function that checks the endianness.
 
