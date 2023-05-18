@@ -1,4 +1,5 @@
 #include "lists.h"
+#include <stdlib.h>
 /**
  * add_dnodeint - function to add a new node at beginning of list
  * @head: double pointer
