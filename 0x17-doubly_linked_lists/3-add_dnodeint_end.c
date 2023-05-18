@@ -1,4 +1,5 @@
 #include "lists.h"
+#include <stdlib.h>
 
 /**
  * add_dnodeint_end - function that adds a new node at the end of a list
@@ -30,3 +31,4 @@ dlistint_t *add_dnodeint_end(dlistint_t **head, const int n)
 	}
 
 	return (new);
+}
